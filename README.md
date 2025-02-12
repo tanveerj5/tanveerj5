@@ -44,34 +44,6 @@ Proficient in developing machine learning models using Python, with experience i
 
 ---
 
-## 📜 Professional Summary
-
-### 🏢 Experience
-
-**Software Engineer & Web Developer 👨‍💻 |🌐 Server Hosting with Proxmox 🖥️, Docker 🐳, Kubernetes 🧑‍💻 & Rancher 🐄**
-*Freelancer*  
-*Dec 2022 - Present*
-- Developed and deployed multiple full-stack websites, delivering tailored solutions for diverse industries.
-- Designed and optimized a high-performance search platform on AWS Windows servers, utilizing a large MySQL database with the MyISAM storage engine to enable ultra-fast query processing.
-- Created dynamic content management systems, interactive visual elements, and responsive designs for improved user engagement and accessibility.
-- Configured and secured web servers using Apache/Nginx, ensuring high availability and performance.
-
-**Software Engineer 👨‍💻**  
-*Highlands Company*  
-*Feb 2022 - Dec 2022*
-- Developed and maintained desktop applications using WPF and WinForms for GeoHECRAS, a specialized software for hydraulic and hydrologic modeling.
-- Implemented UI/UX enhancements in WPF using MVVM architecture, improving application performance and usability.
-- Managed deployments and issue tracking using Jira, ensuring seamless updates and bug tracking for the development lifecycle.
-
-**Software Engineer 👨‍💻**  
-*Genie Soft Pvt Ltd*  
-*July 2020 - Dec 2022*
-- Developed a system cleaner application using C# and C++, optimizing system performance by removing junk files, temporary files, and unwanted registry entries.
-- Created a video player application leveraging Windows Media technologies, providing a seamless media experience for users.
-- Deployed and managed servers on Linode and Digital Ocean, configuring LAMP/LEMP stacks on Linux for scalable and secure web hosting.
-
----
-
 ## 📈 GitHub Stats
 
 ![Tanveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanveerj5&show_icons=true&theme=radical)
