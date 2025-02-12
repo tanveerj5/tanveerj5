@@ -2,7 +2,9 @@
 ## 🤖 ML & AI – Software Engineer & Web Developer 👨‍💻
 ### Server Hosting with Proxmox 🖥️, Docker 🐳, Kubernetes 🧑‍💻 & Rancher 🐄
 
-🔗 For further experience, visit my LinkedIn profile: Tanveer Jafri 🚀
+## 🚀 Connect with Me  
+For further experience and professional updates, visit my LinkedIn profile:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanveer%20Jafri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanveer-jafri/)  
 
 ## 📌 About Me
 
