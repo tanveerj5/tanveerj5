@@ -128,4 +128,3 @@ Thanks for visiting my profile! 😊
 - **Preparation**: Integrating tensor calculus, topology, and quantum mechanics.
 - **Research**: Quantum Machine Learning (QML) to develop next-generation AI models.
 - **Roadmap**: Aligns with cutting-edge AI research, advanced optimization techniques, and theoretical ML, paving the way for AI innovation and Quantum AI applications.
-``` ▋
