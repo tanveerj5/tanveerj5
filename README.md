@@ -8,16 +8,10 @@ For further experience and professional updates, visit my LinkedIn profile:
 
 ## 📌 About Me
 
-- **Name**: Tanveer H Jafri
-- **Contact No**: 📞 0547497945
-- **Current Address**: 🏠 Al Qasimia, Sharjah
+- **Name**: Tanveer Haider Jafri
 - **Email**: 📧 [tanveerj5@gmail.com](mailto:tanveerj5@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tanveer-jafri/](https://linkedin.com/in/tanveer-jafri/)
-- **Nationality**: 🌏 Indian
-- **Age / DOB**: 🎂 26 / 07th August 1998
-- **Marital Status**: 💍 Single
-- **Visa**: 🛂 Visit Visa
-
+  
 ---
 
 ## 🔧 Skills
