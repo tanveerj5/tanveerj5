@@ -52,7 +52,8 @@ Proficient in developing machine learning models using Python, with experience i
 
 ### 🏢 Experience
 
-**Freelancer**  
+**Software Engineer & Web Developer 👨‍💻 |🌐 Server Hosting with Proxmox 🖥️, Docker 🐳, Kubernetes 🧑‍💻 & Rancher 🐄**
+*Freelancer*  
 *Dec 2022 - Present*
 - Developed and deployed multiple full-stack websites, delivering tailored solutions for diverse industries.
 - Designed and optimized a high-performance search platform on AWS Windows servers, utilizing a large MySQL database with the MyISAM storage engine to enable ultra-fast query processing.
