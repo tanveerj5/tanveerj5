@@ -60,14 +60,14 @@ Proficient in developing machine learning models using Python, with experience i
 - Created dynamic content management systems, interactive visual elements, and responsive designs for improved user engagement and accessibility.
 - Configured and secured web servers using Apache/Nginx, ensuring high availability and performance.
 
-**Software Engineer**  
+**Software Engineer 👨‍💻**  
 *Highlands Company*  
 *Feb 2022 - Dec 2022*
 - Developed and maintained desktop applications using WPF and WinForms for GeoHECRAS, a specialized software for hydraulic and hydrologic modeling.
 - Implemented UI/UX enhancements in WPF using MVVM architecture, improving application performance and usability.
 - Managed deployments and issue tracking using Jira, ensuring seamless updates and bug tracking for the development lifecycle.
 
-**Software Engineer**  
+**Software Engineer 👨‍💻**  
 *Genie Soft Pvt Ltd*  
 *July 2020 - Dec 2022*
 - Developed a system cleaner application using C# and C++, optimizing system performance by removing junk files, temporary files, and unwanted registry entries.
