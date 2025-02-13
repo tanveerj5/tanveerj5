@@ -10,7 +10,7 @@ For further experience and professional updates, visit my LinkedIn profile:
 
 - **Name**: Tanveer Haider Jafri
 - **Email**: 📧 [tanveerj5@gmail.com](mailto:tanveerj5@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tanveer-jafri/](https://linkedin.com/in/tanveer-jafri/)
+- **LinkedIn**: 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/tanveer-jafri)
   
 ---
 
